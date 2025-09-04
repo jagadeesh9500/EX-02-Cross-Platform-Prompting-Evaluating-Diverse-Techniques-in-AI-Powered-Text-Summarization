@@ -166,9 +166,14 @@ Treat blockchain as a shared, time-stamped log where every entry is verified by 
 If desired, this can be adapted into multiple AI prompting styles (zero-shot, few-shot with examples and analogies, role-based “explain like a TA,” or stepwise reasoning prompts) and aligned to learning outcomes like definitions, mechanics, components, benefits, limitations, and applications.
 
 ## copilot:
-🧠 Summary: The Basics of Blockchain Technology
 
-Blockchain is a decentralized digital ledger that records transactions across a network of computers. Unlike traditional databases, blockchain stores data in blocks that are cryptographically linked to one another, forming a secure and immutable chain
+
 ## Result
+Criteria	Claude	ChatGPT	Gemini	Copilot
+Accuracy	High (4.5/5)	Very High (5/5)	High (4/5)	Medium (3/5)
+Coherence	High (4.5/5)	Very High (5/5)	High (4/5)	Low-Medium (2.5/5)
+Simplicity	High (4.5/5)	Medium-High (4/5)	Medium (3.5/5)	Very High (5/5)
+Speed	Fast (4.5/5)	Fast (4.5/5)	Fast (4/5)	Very Fast (5/5)
+User Experience	Excellent (5/5)	Excellent (4.5/5)	Good (4/5)	Poor (2/5)
 
 
