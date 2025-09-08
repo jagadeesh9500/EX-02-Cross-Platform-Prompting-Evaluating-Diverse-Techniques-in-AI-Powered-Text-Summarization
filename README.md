@@ -191,9 +191,8 @@ Summary: Black Holes Explained
     Black holes can be indirectly observed via their gravitational effects on nearby matter and light, often forming accretion disks that emit intense radiation.
   🧠 Theoretical Insights
 
-    Predicted by Einstein’s general relativity, black holes behave like perfect black bodies, absorbing all incident light.
-
-    Hawking radiation, a quantum effect, suggests black holes emit faint thermal radiation, implying they could eventually evaporate over cosmic timescales.
+Predicted by Einstein’s general relativity, black holes behave like perfect black bodies, absorbing all incident light.
+Hawking radiation, a quantum effect, suggests black holes emit faint thermal radiation, implying they could eventually evaporate over cosmic timescales.
 
 
 ## Result
