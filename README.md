@@ -126,8 +126,10 @@ Hawking radiation, a quantum effect, suggests black holes emit faint thermal rad
 
 # output:
 <img width="932" height="261" alt="Screenshot 2025-09-08 220715" src="https://github.com/user-attachments/assets/8ca1817f-c950-4c7b-9d3b-fb1dffc3a7cd" />
-# Result:
 
+
+
+# result:
 Among the platforms, ChatGPT stands out for its balanced mix of clear, simple language and coherent, accurate summaries, making it easy and offers the best overall experience with fast, flexible, and user-friendly interaction.
 
 
