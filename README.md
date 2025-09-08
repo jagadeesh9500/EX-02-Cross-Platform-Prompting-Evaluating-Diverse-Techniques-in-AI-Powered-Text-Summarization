@@ -18,8 +18,8 @@ Speed
 
 User experience
 
-## CLAUDE :
-# Technical Summary: Black Holes
+# CLAUDE :
+## Technical Summary: Black Holes
 Black holes are among the most extreme objects in the universe, representing regions where gravity becomes so intense that nothing—not even light—can escape. These astronomical bodies form when massive stars collapse at the end of their life cycles, creating objects so dense that they warp spacetime itself.
 
 # Fundamental Properties
